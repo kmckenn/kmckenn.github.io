@@ -1,0 +1,39 @@
+/* reference: https://www.w3schools.com/css/default.asp */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+a:hover {
+  color: #6976ff;
+}
+
+.dog {
+    background-color: white;
+    width: 600px;
+    border: 2px solid #ccc;
+    border-radius: 10px;  
+    padding: 20px;          
+    margin: 20px auto;
+    display: flex; 
+    align-items: center; 
+    gap: 20px;
+}
+
+.dog-info {
+    display: block;
+}
+
+#Halley {
+    background-color: #af8bbc; 
+}
+
+#Lucy {
+    background-color: #f2b0a9; 
+}
+
